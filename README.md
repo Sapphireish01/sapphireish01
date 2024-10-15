@@ -1,10 +1,10 @@
 ## Hi there 👋
 - 🔭 I’m currently working on REMORA
 - 🌱 I’m currently learning BACKEND DEVELOPMENT
-- 👯 I’m looking to collaborate on FULSTACK PROJECT
+- 👯 I’m looking to collaborate on FULLSTACK PROJECT
 - 🤔 I’m also open to web development Internships
 - 💬 Ask me about CARS
-- 📫 How to reach me: ...
+- 📫 How to reach me: sapphiresimi@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love books, just dont ask me what kind 😌
 
